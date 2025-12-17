@@ -13,4 +13,4 @@ To use it:
 
 Requirements: Python 3.x, `pandas`, and `scikit-learn` (`pip install pandas scikit-learn`).  
 
-Created by [Ranak Ghosh](https://github.com/Ranakghosh7).  
+Created by [Ranak Ghosh](https://github.com/Ranakghosh7).   
