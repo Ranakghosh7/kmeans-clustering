@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error
 
 def train_model(filename, target_column):
-    df = pd.read_csv(filename) 
+    df = pd.read_csv(filename)
 
     X = df.drop(columns=[target_column])
     y = df[target_column]
