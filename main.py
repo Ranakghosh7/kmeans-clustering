@@ -30,4 +30,4 @@ def train_model(filename, target_column):
     print("Model trained! Feature importances saved.")
 
 if __name__ == "__main__":
-    train_model("dataset.csv", "target")   
+    train_model("dataset.csv", "target")  
